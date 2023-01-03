@@ -1,7 +1,9 @@
 
 lista=[]
 
-for i in range(20):
+a = int(input('Elemek száma: '))
+
+for i in range(a):
     if i == 0 :
         lista.append(0)
     if i == 1 :
