@@ -1,7 +1,6 @@
+a = int(input('Elemek száma: '))
 
 lista=[]
-
-a = int(input('Elemek száma: '))
 
 for i in range(a):
     if i == 0 :
